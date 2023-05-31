@@ -1,12 +1,12 @@
 export default defineAppConfig({
   alpine: {
-    title: 'Alpine',
+    title: 'Affective AI',
     description: 'The minimalist blog theme',
     image: {
-      src: '/affectiveAism.png',
+      src: '/affectiveAi.png',
       alt: 'An image showcasing my project.',
-      width: 200,
-      height: 100
+      width: 400,
+      height: 300
     },
     header: {
       position: 'right', // possible value are : | 'left' | 'center' | 'right'
