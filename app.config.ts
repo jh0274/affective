@@ -3,10 +3,10 @@ export default defineAppConfig({
     title: 'Alpine',
     description: 'The minimalist blog theme',
     image: {
-      src: '/social-card-preview.png',
+      src: '/affectiveAism.png',
       alt: 'An image showcasing my project.',
-      width: 400,
-      height: 300
+      width: 200,
+      height: 100
     },
     header: {
       position: 'right', // possible value are : | 'left' | 'center' | 'right'
