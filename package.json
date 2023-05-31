@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "devDependencies": {
-    "@jh0274/alpinecustom": "^0.0.1",
+    "@jh0274/alpinecustom": "^0.0.2",
     "@nuxt/devtools": "^0.4.6",
     "@nuxt/eslint-config": "^0.1.1",
     "@nuxtjs/plausible": "^0.2.1",
