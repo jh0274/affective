@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@jh0274/alpinecustom': ^0.0.5
+  '@jh0274/alpinecustom': ^0.0.6
   '@nuxt/devtools': ^0.4.6
   '@nuxt/eslint-config': ^0.1.1
   '@nuxtjs/plausible': ^0.2.1
@@ -10,7 +10,7 @@ specifiers:
   nuxt: ^3.5.0
 
 devDependencies:
-  '@jh0274/alpinecustom': 0.0.5
+  '@jh0274/alpinecustom': 0.0.6
   '@nuxt/devtools': 0.4.6_nuxt@3.5.2
   '@nuxt/eslint-config': 0.1.1_eslint@8.41.0
   '@nuxtjs/plausible': 0.2.1
@@ -692,8 +692,8 @@ packages:
       wrap-ansi-cjs: /wrap-ansi/7.0.0
     dev: true
 
-  /@jh0274/alpinecustom/0.0.5:
-    resolution: {integrity: sha512-boZw9vcau/G4kRKP/HQWrwAY4sf6eiKVNdUKCFvkNbhvnKriYn+lNwlS6E3X2xH5b4i0qgAon7sDQOB0IfYnvw==}
+  /@jh0274/alpinecustom/0.0.6:
+    resolution: {integrity: sha512-FdD3Hoj5P6icDG/7GksbclZk9pP27zBC+7HDGRfvIRK9ivSzI1gmZxlJr5DplWoJGecpd/kw3p3iy+eTtDKMmQ==}
     dependencies:
       '@nuxt-themes/elements': 0.9.4
       '@nuxt-themes/tokens': 1.9.1
