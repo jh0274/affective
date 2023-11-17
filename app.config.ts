@@ -1,7 +1,7 @@
 export default defineAppConfig({
   alpine: {
-    title: 'Affective AI',
-    description: 'The minimalist blog theme',
+    title: 'Folkie io',
+    description: 'JFDIs',
     image: {
       src: '/affectiveAi.png',
       alt: 'An image showcasing my project.',
