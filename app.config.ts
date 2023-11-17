@@ -3,7 +3,7 @@ export default defineAppConfig({
     title: 'Folkie io',
     description: 'JFDI',
     image: {
-      src: 'Folkie.io',
+      src: '/130797-mandolin-banjo-png-download-free.png',
       alt: 'Folkie.io',
       width: 400,
       height: 300
@@ -11,8 +11,8 @@ export default defineAppConfig({
     header: {
       position: 'right', // possible value are : | 'left' | 'center' | 'right'
       logo: {
-        path: 'Folkie.io', // path of the logo
-        pathDark: 'Folkie.io', // path of the logo in dark mode, leave this empty if you want to use the same logo
+        path: '/folkie.svg', // path of the logo
+        pathDark: '/folkie.svg', // path of the logo in dark mode, leave this empty if you want to use the same logo
         alt: 'alpine' // alt of the logo
       }
     },
