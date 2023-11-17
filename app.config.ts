@@ -1,21 +1,7 @@
 export default defineAppConfig({
   alpine: {
     title: 'Folkie io',
-    description: 'JFDIs',
-    image: {
-      src: '/affectiveAi.png',
-      alt: 'An image showcasing my project.',
-      width: 400,
-      height: 300
-    },
-    header: {
-      position: 'right', // possible value are : | 'left' | 'center' | 'right'
-      logo: {
-        path: '/logo.svg', // path of the logo
-        pathDark: '/affectiveAism.png', // path of the logo in dark mode, leave this empty if you want to use the same logo
-        alt: 'alpine' // alt of the logo
-      }
-    },
+    description: 'JFDI',
     footer: {
       credits: {
         enabled: false, // possible value are : true | false
